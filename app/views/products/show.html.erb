@@ -9,9 +9,16 @@
     <div class="row">
 
       <div class="col-sm-4">
+
+      <div class="parent">
+        <% if @product.quantity == 0 %>
+          <img class="soldOut" src="https://trimuskoka.com/wp-content/uploads/2017/06/sold-out-banner.png">
+        <% end %>
+        
         <%= image_tag @product.image.url, class: 'main-img' %>
       </div>
 
+      </div>
       <div class="col-sm-8">
         <dl class="dl-horizontal">
           <dt>Name</dt>
