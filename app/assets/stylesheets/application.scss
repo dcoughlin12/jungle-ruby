@@ -36,3 +36,21 @@ form.button_to {
   left: 0%;
   width: 70%
 }
+
+.counts {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: solid;
+  border-color: pink;
+  border-radius: 70px;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+
+.countsAll {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
