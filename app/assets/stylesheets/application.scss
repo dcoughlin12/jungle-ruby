@@ -54,3 +54,27 @@ form.button_to {
   align-items: center;
 
 }
+
+.aboutImg {
+    float: left;
+    width:  400px;
+    height: 400px;
+    object-fit: cover;
+    align-self: center;
+}
+
+.aboutList {
+  display: flex;
+  flex-direction: column;
+}
+
+.about {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.description {
+  display: flex;
+  align-self: center;
+}

@@ -19,7 +19,7 @@ unless Rails.env.development?
   exit 0
 end
 
-# Let's do this ...
+# Let's do this ..
 
 ## CATEGORIES
 
