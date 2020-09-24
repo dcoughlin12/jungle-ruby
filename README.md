@@ -1,5 +1,15 @@
 # Jungle
 
+
+## Screenshots
+!["Main Products page"](https://github.com/dcoughlin12/jungle-ruby/blob/master/docs/Screen%20Shot%202020-09-23%20at%2010.06.29%20PM.png?raw=true)
+Main products page. Users can add to cart from here.
+
+
+!["Admin side"](https://github.com/dcoughlin12/jungle-ruby/blob/master/docs/Screen%20Shot%202020-09-23%20at%2010.07.17%20PM.png?raw=true)
+Once logges in as an Admin, users can update products, and add new products.
+
+
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
 
